@@ -38,9 +38,14 @@ $colors: (
   secondary:  #32db64,
   danger:     #f53d3d,
   light:      #f4f4f4,
-  dark:       #222
+  dark:       #222,
+  navUsuario: grey,
 );
 
+.datosVehiculos {
+  color: white;
+  margin-left: 3%;
+}
 
 // App iOS Variables
 // --------------------------------------------------
